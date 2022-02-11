@@ -16,6 +16,7 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
+        // To refractor in function
         val tv1: TextView = findViewById(R.id.TextView)
         tv1.text = "Salut"
         val apiInterface = PokemonHttp.create().getPostByName("pikachu")

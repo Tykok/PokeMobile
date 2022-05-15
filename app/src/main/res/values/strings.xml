@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">MyPokedex</string>
+    <string name="app_name" translatable="false">PokeMobile</string>
+    <string name="contributor" translatable="false">Contributor</string>
+    <string name="pokedex" translatable="false">Pokedex</string>
 </resources>

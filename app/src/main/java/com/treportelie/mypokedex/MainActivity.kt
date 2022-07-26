@@ -5,8 +5,8 @@ import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.util.Log
 import android.widget.TextView
-import com.treportelie.mypokedex.class_pokemon.metier.Pokemon
-import com.treportelie.mypokedex.class_pokemon.technique.http.PokemonHttp
+import com.treportelie.mypokedex.`class`.metier.Pokemon
+import com.treportelie.mypokedex.`class`.technique.http.PokemonHttp
 import retrofit2.Call
 import retrofit2.Callback
 import retrofit2.Response
